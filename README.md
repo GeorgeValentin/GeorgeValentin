@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- I'm a very ambitious and perseverent person, eager to learn
-- I'm currently learning Java for Software Development
-- I'm working on a Web Development project: Drum Kit (https://github.com/GeorgeValentin/Drum_Kit.git)
+- I'm a very ambitious, perseverent and eager to learn person
+- I'm currently learning Software Development(Java) and Web Development(jQuery)
 - Other passions: Travelling, reading adventure/SF books, Sports
