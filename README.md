@@ -19,8 +19,8 @@
 
 ---
 ### :man_technologist: About Me :
-I am <strong>George</strong>, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Romania.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am <strong>George</strong>, a Full Stack Developer from Romania.
+- :telescope: I’m working as a Software Engineer and contributing to the frontend and backend parts of web applications.
 
 - :seedling: Exploring Machine Learning.
 
