@@ -20,7 +20,7 @@
 ---
 ### :man_technologist: About Me :
 I am <strong>George</strong>, a Full Stack Software Engineer from Romania.
-- :telescope: I’m working as a Software Engineer that does Dynamics CRM and in my free time I build full-stack applications.
+- :telescope: I’m working as a Dynamics CRM Developer and in my free time I build full-stack applications.
 
 - :seedling: Exploring new ways of solving real world problems through apps.
 
