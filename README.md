@@ -20,11 +20,11 @@
 ---
 ### :man_technologist: About Me :
 I am <strong>George</strong>, a Full Stack Software Engineer from Romania.
-- :telescope: I’m working as a Software Engineer and contributing to the frontend and backend parts of web applications.
+- :telescope: I’m working as a Software Engineer that does Dynamics CRM and in my free time I build full-stack applications.
 
-- :seedling: Exploring new ways of improving web development.
+- :seedling: Exploring new ways of solving real world problems through apps.
 
-- :zap: In my free time, I tackle new projects.
+- :zap: In my free time, I take on new exciting challenges.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
