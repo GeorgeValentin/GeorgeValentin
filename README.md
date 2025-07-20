@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/georgecujba">
+  <a href="https://www.linkedin.com/in/georgecujba">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -12,19 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=GeorgeValentin&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 ---
 ### :man_technologist: About Me :
-I am <strong>George</strong>, a Full Stack Software Engineer from Romania.
-- :telescope: I’m working as a Dynamics CRM Developer and in my free time I build full-stack applications.
-
-- :seedling: Exploring new ways of solving real world problems through apps.
-
-- :zap: In my free time, I take on new exciting challenges.
+- 🧑‍💻 25-year-old **passionate** Software Engineer from Romania
+- 💼 Currently working as a **Dynamics CRM Software Developer**
+- 🌱 Always exploring new ways of solving real-world problems through apps
+- ⚡ Love taking on new, exciting challenges in my free time
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
